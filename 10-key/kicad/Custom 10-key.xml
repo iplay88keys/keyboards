@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Jeremy Alvis\Desktop\Custom 10-key\Custom 10-key.sch</source>
+    <date>9/24/2016 11:54:47 AM</date>
+    <tool>Eeschema 4.0.4-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Custom 10-key.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="S1:1">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6B9A4</tstamp>
+    </comp>
+    <comp ref="S2:1">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BAC8</tstamp>
+    </comp>
+    <comp ref="D1:1">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BB24</tstamp>
+    </comp>
+    <comp ref="D2:1">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BB72</tstamp>
+    </comp>
+    <comp ref="S3:1">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BCD4</tstamp>
+    </comp>
+    <comp ref="D3:1">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BCDA</tstamp>
+    </comp>
+    <comp ref="S4:1">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BF16</tstamp>
+    </comp>
+    <comp ref="D4:1">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6BF1C</tstamp>
+    </comp>
+    <comp ref="S5:1">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C011</tstamp>
+    </comp>
+    <comp ref="D5:1">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C017</tstamp>
+    </comp>
+    <comp ref="S1:2">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C304</tstamp>
+    </comp>
+    <comp ref="S2:2">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C30A</tstamp>
+    </comp>
+    <comp ref="D1:2">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C310</tstamp>
+    </comp>
+    <comp ref="D2:2">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C316</tstamp>
+    </comp>
+    <comp ref="S3:2">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C31C</tstamp>
+    </comp>
+    <comp ref="D3:2">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C322</tstamp>
+    </comp>
+    <comp ref="S4:2">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C331</tstamp>
+    </comp>
+    <comp ref="D4:2">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C337</tstamp>
+    </comp>
+    <comp ref="S5:2">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C340</tstamp>
+    </comp>
+    <comp ref="D5:2">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C346</tstamp>
+    </comp>
+    <comp ref="S1:3">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C485</tstamp>
+    </comp>
+    <comp ref="S2:3">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C48B</tstamp>
+    </comp>
+    <comp ref="D1:3">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C491</tstamp>
+    </comp>
+    <comp ref="D2:3">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C497</tstamp>
+    </comp>
+    <comp ref="S3:3">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C49D</tstamp>
+    </comp>
+    <comp ref="D3:3">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C4A3</tstamp>
+    </comp>
+    <comp ref="S4:3">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C4B2</tstamp>
+    </comp>
+    <comp ref="D4:3">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C4B8</tstamp>
+    </comp>
+    <comp ref="S1:4">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C66A</tstamp>
+    </comp>
+    <comp ref="S2:4">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C670</tstamp>
+    </comp>
+    <comp ref="D1:4">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C676</tstamp>
+    </comp>
+    <comp ref="D2:4">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C67C</tstamp>
+    </comp>
+    <comp ref="S3:4">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C682</tstamp>
+    </comp>
+    <comp ref="D3:4">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C688</tstamp>
+    </comp>
+    <comp ref="S4:4">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C697</tstamp>
+    </comp>
+    <comp ref="D4:4">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C69D</tstamp>
+    </comp>
+    <comp ref="S5:3">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C6A6</tstamp>
+    </comp>
+    <comp ref="D5:3">
+      <value>DIODE</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C6AC</tstamp>
+    </comp>
+    <comp ref="S1:5">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C813</tstamp>
+    </comp>
+    <comp ref="S2:5">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C819</tstamp>
+    </comp>
+    <comp ref="D1:5">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C81F</tstamp>
+    </comp>
+    <comp ref="D2:5">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C825</tstamp>
+    </comp>
+    <comp ref="S4:5">
+      <value>MX1A</value>
+      <footprint>CHERRY_PCB_100H:CHERRY_PCB_100H_Plated</footprint>
+      <libsource lib="KB_common" part="MX1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C82B</tstamp>
+    </comp>
+    <comp ref="D4:5">
+      <value>DIODE</value>
+      <footprint>SM0805:SOD-123(A-C)</footprint>
+      <libsource lib="KB_common" part="DIODE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6C831</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>Row 1</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6E35E</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>Row 2</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6EA00</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>Row 3</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6EB1E</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>Row 4</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6EBD7</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>Row 5</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6EC93</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>Col 1</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6F4E7</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>Col 2</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6F5B9</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>Col 3</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6F692</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>Col 4</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6F762</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>Col 5</value>
+      <footprint>pad:Pad</footprint>
+      <libsource lib="KB_common" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57E6F82B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="KB_common" part="CONN_1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KB_common" part="DIODE">
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KB_common" part="MX1A">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX1A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="KB_common">
+      <uri>C:\Users\Jeremy Alvis\Desktop\Custom 10-key\depot-master\depot-master\basics\0-Base\lib\KB_common.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D1:5-PadC)">
+      <node ref="S1:5" pin="2"/>
+      <node ref="D1:5" pin="C"/>
+    </net>
+    <net code="2" name="Net-(D2:5-PadC)">
+      <node ref="S2:5" pin="2"/>
+      <node ref="D2:5" pin="C"/>
+    </net>
+    <net code="3" name="Net-(D4:5-PadC)">
+      <node ref="D4:5" pin="C"/>
+      <node ref="S4:5" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D3:4-PadC)">
+      <node ref="D3:4" pin="C"/>
+      <node ref="S3:4" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D1:4-PadC)">
+      <node ref="S1:4" pin="2"/>
+      <node ref="D1:4" pin="C"/>
+    </net>
+    <net code="6" name="Net-(D1:4-PadA)">
+      <node ref="D4:4" pin="A"/>
+      <node ref="P9" pin="1"/>
+      <node ref="D5:3" pin="A"/>
+      <node ref="D2:4" pin="A"/>
+      <node ref="D3:4" pin="A"/>
+      <node ref="D1:4" pin="A"/>
+    </net>
+    <net code="7" name="Net-(D2:4-PadC)">
+      <node ref="S2:4" pin="2"/>
+      <node ref="D2:4" pin="C"/>
+    </net>
+    <net code="8" name="Net-(D4:4-PadC)">
+      <node ref="S4:4" pin="2"/>
+      <node ref="D4:4" pin="C"/>
+    </net>
+    <net code="9" name="Net-(D5:3-PadC)">
+      <node ref="D5:3" pin="C"/>
+      <node ref="S5:3" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D1:5-PadA)">
+      <node ref="P10" pin="1"/>
+      <node ref="D2:5" pin="A"/>
+      <node ref="D4:5" pin="A"/>
+      <node ref="D1:5" pin="A"/>
+    </net>
+    <net code="11" name="Net-(D5:1-PadC)">
+      <node ref="S5:1" pin="2"/>
+      <node ref="D5:1" pin="C"/>
+    </net>
+    <net code="12" name="Net-(D1:2-PadC)">
+      <node ref="S1:2" pin="2"/>
+      <node ref="D1:2" pin="C"/>
+    </net>
+    <net code="13" name="Net-(D2:2-PadC)">
+      <node ref="D2:2" pin="C"/>
+      <node ref="S2:2" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D3:2-PadC)">
+      <node ref="S3:2" pin="2"/>
+      <node ref="D3:2" pin="C"/>
+    </net>
+    <net code="15" name="Net-(D1:1-PadC)">
+      <node ref="D1:1" pin="C"/>
+      <node ref="S1:1" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D2:1-PadC)">
+      <node ref="D2:1" pin="C"/>
+      <node ref="S2:1" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D1:1-PadA)">
+      <node ref="D4:1" pin="A"/>
+      <node ref="D5:1" pin="A"/>
+      <node ref="D1:1" pin="A"/>
+      <node ref="D2:1" pin="A"/>
+      <node ref="D3:1" pin="A"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="18" name="Net-(D3:1-PadC)">
+      <node ref="D3:1" pin="C"/>
+      <node ref="S3:1" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D4:1-PadC)">
+      <node ref="S4:1" pin="2"/>
+      <node ref="D4:1" pin="C"/>
+    </net>
+    <net code="20" name="Net-(D3:3-PadC)">
+      <node ref="S3:3" pin="2"/>
+      <node ref="D3:3" pin="C"/>
+    </net>
+    <net code="21" name="Net-(D1:3-PadC)">
+      <node ref="D1:3" pin="C"/>
+      <node ref="S1:3" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D2:3-PadC)">
+      <node ref="S2:3" pin="2"/>
+      <node ref="D2:3" pin="C"/>
+    </net>
+    <net code="23" name="Net-(D4:3-PadC)">
+      <node ref="S4:3" pin="2"/>
+      <node ref="D4:3" pin="C"/>
+    </net>
+    <net code="24" name="Net-(P4-Pad1)">
+      <node ref="S4:2" pin="1"/>
+      <node ref="S4:1" pin="1"/>
+      <node ref="P4" pin="1"/>
+      <node ref="S4:4" pin="1"/>
+      <node ref="S4:3" pin="1"/>
+      <node ref="S4:5" pin="1"/>
+    </net>
+    <net code="25" name="Net-(D1:2-PadA)">
+      <node ref="D2:2" pin="A"/>
+      <node ref="D1:2" pin="A"/>
+      <node ref="D4:2" pin="A"/>
+      <node ref="D3:2" pin="A"/>
+      <node ref="P7" pin="1"/>
+    </net>
+    <net code="26" name="Net-(D4:2-PadC)">
+      <node ref="D4:2" pin="C"/>
+      <node ref="S4:2" pin="2"/>
+    </net>
+    <net code="27" name="Net-(P5-Pad1)">
+      <node ref="S5:2" pin="1"/>
+      <node ref="S5:3" pin="1"/>
+      <node ref="S5:1" pin="1"/>
+      <node ref="P5" pin="1"/>
+    </net>
+    <net code="28" name="Net-(D5:2-PadC)">
+      <node ref="D5:2" pin="C"/>
+      <node ref="S5:2" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D1:3-PadA)">
+      <node ref="D5:2" pin="A"/>
+      <node ref="D4:3" pin="A"/>
+      <node ref="D3:3" pin="A"/>
+      <node ref="P8" pin="1"/>
+      <node ref="D1:3" pin="A"/>
+      <node ref="D2:3" pin="A"/>
+    </net>
+    <net code="30" name="Net-(P1-Pad1)">
+      <node ref="S1:5" pin="1"/>
+      <node ref="P1" pin="1"/>
+      <node ref="S1:1" pin="1"/>
+      <node ref="S1:4" pin="1"/>
+      <node ref="S1:3" pin="1"/>
+      <node ref="S1:2" pin="1"/>
+    </net>
+    <net code="31" name="Net-(P2-Pad1)">
+      <node ref="S2:3" pin="1"/>
+      <node ref="S2:1" pin="1"/>
+      <node ref="S2:2" pin="1"/>
+      <node ref="P2" pin="1"/>
+      <node ref="S2:4" pin="1"/>
+      <node ref="S2:5" pin="1"/>
+    </net>
+    <net code="32" name="Net-(P3-Pad1)">
+      <node ref="S3:4" pin="1"/>
+      <node ref="S3:2" pin="1"/>
+      <node ref="P3" pin="1"/>
+      <node ref="S3:1" pin="1"/>
+      <node ref="S3:3" pin="1"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name CHERRY_MX_LED)(type Legacy)(uri "$(KIPRJMOD)\\depot-master\\depot-master\\basics\\0-Base\\lib\\CHERRY_MX_LED.mod")(options "")(descr ""))
+  (lib (name CHERRY_PCB_100H)(type Legacy)(uri "$(KIPRJMOD)\\depot-master\\depot-master\\basics\\0-Base\\lib\\CHERRY_PCB_100H.mod")(options "")(descr ""))
+  (lib (name holes)(type Legacy)(uri "$(KIPRJMOD)\\depot-master\\depot-master\\basics\\0-Base\\lib\\holes.mod")(options "")(descr ""))
+  (lib (name pad)(type Legacy)(uri "$(KIPRJMOD)\\depot-master\\depot-master\\basics\\0-Base\\lib\\pad.mod")(options "")(descr ""))
+  (lib (name SM0805)(type Legacy)(uri "$(KIPRJMOD)\\depot-master\\depot-master\\basics\\0-Base\\lib\\SM0805.mod")(options "")(descr ""))
+)

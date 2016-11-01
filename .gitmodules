@@ -1,0 +1,3 @@
+[submodule "10-key/kicad/depot"]
+	path = 10-key/kicad/depot
+	url = https://github.com/regack/depot
