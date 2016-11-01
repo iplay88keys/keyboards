@@ -2,6 +2,21 @@
 
 [![Join the chat at https://gitter.im/iplay88keys-keyboards/Lobby](https://badges.gitter.im/iplay88keys-keyboards/Lobby.svg)](https://gitter.im/iplay88keys-keyboards/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## Setup
+
+`git submodule update --init --recursive`
+
+To build on Ubuntu, these libraries are necessary:
+
+   * gcc-avr
+   * avr-libc
+   * dfu-programmer
+
+And these may be necessary:
+
+   * dfu-util (required for flashing)
+   * gcc-arm-none-eabi
+
 ## Some useful sites/tutorials
 
 [tmk_firmware](https://github.com/tmk/tmk_keyboard)
@@ -15,3 +30,13 @@
 [BrownFox Step by Step](https://deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html)
 
 [How to Build Your Very Own Keyboard Firmware](https://deskthority.net/workshop-f7/how-to-build-your-very-own-keyboard-firmware-t7177.html)
+
+## Acknowledgements
+
+[tmk_keyboard](https://github.com/tmk/tmk_keyboard)
+
+[ChibiOS](https://github.com/ChibiOS/ChibiOS)
+
+[ChibiOS-Contrib](https://github.com/ChibiOS/ChibiOS-Contrib)
+
+[njbair](https://github.com/njbair/keyboard_firmware)

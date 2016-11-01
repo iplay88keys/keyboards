@@ -1,3 +1,12 @@
-[submodule "10-key/kicad/depot"]
-	path = 10-key/kicad/depot
-	url = https://github.com/regack/depot
+[submodule "modules/tmk_core"]
+	path = modules/tmk_core
+	url = https://github.com/tmk/tmk_core
+[submodule "modules/chibios"]
+	path = modules/chibios
+	url = https://github.com/ChibiOS/ChibiOS
+[submodule "modules/chibios-contrib"]
+	path = modules/chibios-contrib
+	url = https://github.com/ChibiOS/ChibiOS-Contrib
+[submodule "modules/qmk"]
+	path = modules/qmk
+	url = https://github.com/jackhumbert/qmk_firmware
