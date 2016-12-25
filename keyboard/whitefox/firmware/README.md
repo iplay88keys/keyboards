@@ -3,11 +3,12 @@
 ## Introduction
 
 The layout for my whitefox is the truefox.
- 
+
 ## Building
 
-`$ make`
-Flash `whitefox.hex`.
+* `make`
+* Put whitefox into flash mode (button on bottom)
+* `make program`
 
 ## Links
 
