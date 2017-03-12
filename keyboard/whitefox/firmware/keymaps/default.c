@@ -28,23 +28,23 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
    /* Layer 0: Default Layer
     * ,---------------------------------------------------------------.
-    * |FN1 | F1| F2| F3| F4| F5| F6| F7| F8| F9| F0|F11|F12|NO| NO| NO|
+    * |FN1 | F1| F2| F3| F4| F5| F6| F7| F8| F9| F0|F11|F12|TRNS| TRNS| TRNS|
     * |---------------------------------------------------------------|
-    * | NO | NO| NO| NO| NO| NO| NO| NO| NO| NO| NO| NO| NO| NO | NO  |
+    * | TRNS | TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS | TRNS  |
     * |---------------------------------------------------------------|
-    * |  NO  |  NO|  NO| NO| NO| NO| NO| NO| NO| NO| NO| NO| NO   |V U|
+    * |  TRNS  |  TRNS|  TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS   |V U|
     * |---------------------------------------------------------------|
-    * |   NO   | NO| NO| NO| NO| NO| NO| NO| NO| NO| NO|NO   |PGDN|V D|
+    * |   TRNS   | TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS| TRNS|TRNS   |PGDN|V D|
     * |---------------------------------------------------------------|
-    * | NO | NO | NO |          NO         | FN1 | NO |  |HOM|PGUP|END|
+    * | TRNS | TRNS | TRNS |          TRNS         | FN1 | TRNS |  |HOM|PGUP|END|
     * `---------------------------------------------------------------'
     */
 	[L_MACRO] = KEYMAP( \
-    FN0, F1,  F2,  F3,  F4,  F5,  F6,  F7,  F8,  F9,  F10, F11, F12, NO, NO, NO, \
-    NO, FN4, FN5, FN6, FN7, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, \
-    NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, VOLU,\
-    NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, PGUP, VOLD,\
-    NO, NO, NO, NO, NO, NO, NO, HOME, PGDN, END \
+    FN0, F1,  F2,  F3,  F4,  F5,  F6,  F7,  F8,  F9,  F10, F11, F12, TRNS, TRNS, TRNS, \
+    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, \
+    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, VOLU,\
+    TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, TRNS, PGUP, VOLD,\
+    TRNS, TRNS, TRNS, TRNS, TRNS, NO, TRNS, HOME, PGDN, END \
 	),
 };
 
