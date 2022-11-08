@@ -8,15 +8,15 @@
 
 To build on Ubuntu, these libraries are necessary:
 
-   * gcc-avr
-   * avr-libc
-   * dfu-programmer
-   * dfu-util (required for flashing)
-   * make
+  * gcc-avr
+  * avr-libc
+  * dfu-programmer
+  * dfu-util (required for flashing)
+  * make
 
 And these may be necessary:
 
-   * gcc-arm-none-eabi 
+  * gcc-arm-none-eabi
    
 (Successfully built on pocket chip)
 
