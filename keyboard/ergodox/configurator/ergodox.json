@@ -130,10 +130,6 @@
         "0": {
           "key": "ESC",
           "label": "ESC"
-        },
-        "1": {
-          "key": "#:flashMode()",
-          "label": "FLASH"
         }
       }
     },
@@ -702,10 +698,6 @@
         "0": {
           "key": "-",
           "label": "-"
-        },
-        "1": {
-          "key": "#:flashMode()",
-          "label": "FLASH"
         }
       }
     },
