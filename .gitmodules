@@ -9,4 +9,4 @@
 	url = https://github.com/ChibiOS/ChibiOS-Contrib
 [submodule "modules/qmk"]
 	path = modules/qmk
-	url = https://github.com/jackhumbert/qmk_firmware
+	url = git@github.com:qmk/qmk_firmware

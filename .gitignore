@@ -2,3 +2,5 @@
 *.eps
 **/build/*
 **/.dep/*
+.DS_STORE
+.idea
